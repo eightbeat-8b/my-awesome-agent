@@ -89,7 +89,7 @@ The application leverages [**Terraform**](http://terraform.io) to define and pro
    ```bash
    terraform apply --var-file vars/env.tfvars
    ```
-
+ああああああああああああああああ
    - Type 'yes' when prompted to confirm
 
 After completing these steps, your infrastructure will be set up and ready for deployment!
