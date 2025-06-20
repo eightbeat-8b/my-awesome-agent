@@ -17,4 +17,4 @@ host_connection_name = "Github_CICD"
 repository_name = "eightbeat-8b-my-awesome-agent"
 
 # The Google Cloud region you will use to deploy the infrastructure
-region = "asia-northeast1"
+region = "us-central1"
